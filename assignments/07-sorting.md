@@ -7,7 +7,7 @@
 # Questions
 
 ## Easy
-- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x]  [Missing Number](https://leetcode.com/problems/missing-number/)
