@@ -8,9 +8,9 @@
 
 ## Easy
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
-- [Majority Element](https://leetcode.com/problems/majority-element/)
-- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [Missing Number](https://leetcode.com/problems/missing-number/)
+- [x] [Majority Element](https://leetcode.com/problems/majority-element/)
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x]  [Missing Number](https://leetcode.com/problems/missing-number/)
 - [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)
@@ -39,7 +39,7 @@
 - [2Sum](https://leetcode.com/problems/two-sum/)
 
 ## Medium
-- [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
 - [3Sum Closest](https://leetcode.com/problems/3sum-closest/)
 - [4Sum](https://leetcode.com/problems/4sum/)
 - [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
