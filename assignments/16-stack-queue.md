@@ -17,7 +17,7 @@
 - [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) `leetcode`
 - [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) `leetcode`
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
-- [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
+- [x] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
 - [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
 - [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 - [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
@@ -33,7 +33,7 @@
 
 ## Hard
 - [Longest Valid Parantheses](https://leetcode.com/problems/longest-valid-parentheses/) `leetcode`
-- [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
+- [x] [Sliding window maximum](https://leetcode.com/problems/sliding-window-maximum/) `leetcode`
 - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii/) `leetcode`
 - [Card Rotation](https://practice.geeksforgeeks.org/problems/card-rotation5834/1/) `GFG`
 - [Minimum steps to reach target by a Knight](https://www.geeksforgeeks.org/minimum-steps-reach-target-knight/) `GFG`
