@@ -19,7 +19,7 @@
 - [Decode String](https://leetcode.com/problems/decode-string/) `leetcode`
 - [x] [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) `leetcode`
 - [132 Pattern](https://leetcode.com/problems/132-pattern/) `leetcode`
-- [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
+- [x] [Design circular Queue](https://leetcode.com/problems/design-circular-queue/) `leetcode`
 - [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) `leetcode`
 - [Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/) `leetcode`
 - [Circular tour](https://practice.geeksforgeeks.org/problems/circular-tour/1) `GFG` `Amex` `Amazon`
