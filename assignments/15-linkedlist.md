@@ -1,6 +1,7 @@
 # Problems
 
 ## Easy
+
 - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) `leetcode`
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) `leetcode`
 - [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) `leetcode`
@@ -14,21 +15,14 @@
 - [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) `leetcode`
 
 ## Medium
+
 - [Design Twitter](https://leetcode.com/problems/design-twitter/) `leetcode`
-<<<<<<< HEAD
+- [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
 - [x] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
 - [x] [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
--  [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
 - [x] [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
-- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS`
-=======
-- [ Design Linked List](https://leetcode.com/problems/design-linked-list/) `leetcode`
-- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) `leetcode`
-- [Reorder List](https://leetcode.com/problems/reorder-list/) `leetcode`
-- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) `leetcode` `HSBC`
-- [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) `leetcode`
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) `leetcode` `TCS` `Amazon` `Microsoft` `Facebook` `Qualcomm`
->>>>>>> af5e10489041f21afe55cd634b104e449645a80a
 - [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) `leetcode`
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) `leetcode`
 - [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) `leetcode` `Amazon`
@@ -42,7 +36,7 @@
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)`leetcode`
 - [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list/) `leetcode`
 - [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/)`leetcode`
-- [ Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)`leetcode` 
+- [ Reverse Nodes in Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)`leetcode`
 - [ Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
 - [Sort List](https://leetcode.com/problems/sort-list/)`leetcode`
 - [ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)`leetcode`
@@ -55,6 +49,7 @@
 - [ Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points/)`leetcode`
 
 ## Hard
+
 - [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) `leetcode`
 - [LFU Cache](https://leetcode.com/problems/lfu-cache/) `leetcode` `Google`
 - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) `leetcode`
